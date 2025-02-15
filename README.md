@@ -1,0 +1,1 @@
+This is a simple GUI-based password generator using Tkinter in Python.It generates a random password, hashes it with SHA-256, and stores it in a file to prevent duplication. The GUI allows users to specify the password length and retrieve generated passwords. If a password is already in the file, it prompts for regeneration. Modify the file path in the script for proper storage.
